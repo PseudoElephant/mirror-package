@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "displayName": "Mirror",
   "description": "The is the mirror package",
-  "unity": "2019.1",
-  "unityRelease": "0b5",
+  "unity": "2020.3",
+  "unityRelease": "25f1",
+  "documentationUrl": "https://mirror-networking.gitbook.io/docs/",
+  "changelogUrl": "https://mirror-networking.gitbook.io/docs/general/changelog",
   "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+    "Mirror",
+    "Package",
+    "Multiplayer"
   ],
   "author": {
-    "name": "Unity",
-    "email": "unity@example.com",
-    "url": "https://www.unity3d.com"
+    "name": "Vis2k",
+    "url": "https://github.com/vis2k"
   }
 }
